@@ -1,0 +1,13 @@
+transaction_id,customer_id,age,gender,city,product,category,quantity,unit_price,discount,payment_method,created_at
+1001,101,25,Male,Tehran,Laptop,Electronics,2,500,10,Card,26/09/01 10:30
+1002,102,31,Female,Karaj,Phone,Electronics,1,800,5,Cash,26/09/01 11:15
+1003,101,25,Male,Tehran,Mouse,Accessories,3,20,0,Card,26/09/02 9:20
+1004,103,42,Female,Qazvin,Keyboard,Accessories,2,50,10,Card,26/09/02 14:10
+1005,104,29,Male,Tehran,Monitor,Electronics,1,300,15,Online,26/09/03 16:45
+,105,35,Female,Tehran,Headphones,Accessories,2,70,0,Cash,26/09/04 12:00
+1007,102,31,Female,Karaj,Phone,Electronics,2,800,5,Card,26/09/04 18:30
+1008,106,27,Male,Tehran,Laptop,Electronics,-1,500,10,Card,26/09/05 9:00
+1009,107,150,Female,Tehran,Tablet,Electronics,1,400,0,Online,26/09/05 13:25
+1010,108,22,Male,Karaj,Mouse,Accessories,abc,20,0,Cash,26/09/06 15:40
+1011,109,33,Female,Tehran,Monitor,Electronics,2,-300,0,Card,26/09/06 17:10
+1012,101,25,Male,Tehran,Mouse,Accessories,3,20,0,Card,26/09/07 10:00
